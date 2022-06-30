@@ -1,0 +1,3 @@
+[submodule "test-submodules1"]
+	path = test-submodules1
+	url = git@github.com:vishnu-wb/test-submodules1.git
